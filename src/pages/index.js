@@ -76,7 +76,7 @@ const IndexPage = () => (
 			</fieldset>
 			<fieldset>
 				<legend>Where should we send it?</legend>
-				<input type="email" placeholder="your email"/>
+				<input type="email" placeholder="your email" name="email" />
 			</fieldset>
 			<button type="submit">Go!</button>
 		</form>
